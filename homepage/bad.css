@@ -1,5 +1,5 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Comic Sans";
 }
 .banner{
     display: flex;
@@ -39,15 +39,15 @@ h4{
 h2{
     text-align: center;
     text-decoration: underline;
-    color: brown;
+    color: rgba(73, 113, 223, 0.795);
 }
 .sidebar{
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
 }
 .content{
-    padding: 20px;
-    background-color: lightgrey;
+    padding: 50px;
+    background-color: rgba(73, 113, 223, 0.795);
 }
 .list{
     margin-left: 50px;
