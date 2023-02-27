@@ -45,7 +45,7 @@ h2{
 .content{
     padding: 20px;
     background-color: grey;
-    margin-left: 515px;
+    float: right;
 }
 .offer{
     margin-left: 50px;
