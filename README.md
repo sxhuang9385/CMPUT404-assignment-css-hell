@@ -1,3 +1,15 @@
+Changes to html files:
+    - 1.html
+        inserted <link rel="stylesheet" type="text/css" href="style.css"> on line 56
+        changed all instances of cover.jpg to cover_1.jpg
+    - 2.html
+        inserted <link rel="stylesheet" type="text/css" href="style.css"> on line 136
+        changed all instances of cover.jpg to cover_2.jpg
+    - 3.html
+        inserted <link rel="stylesheet" type="text/css" href="style.css"> on line 76
+        changed all instances of cover.jpg to cover_3.jpg
+
+
 Assignment: CSS Hell
 ====================
 
