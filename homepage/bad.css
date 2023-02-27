@@ -3,8 +3,8 @@ body{
 }
 .banner{
     display: flex;
-    background-color: lightgreen;
-    color:white;
+    background-color: rgba(73, 113, 223, 0.795);
+    color:rgba(73, 113, 223, 0.795);
     padding: 10px;
 }
 .text{
