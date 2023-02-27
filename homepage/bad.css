@@ -9,7 +9,7 @@ body{
 }
 .text{
     position: relative;
-    background-color: rgba(73, 113, 223, 0.795);
+    background-color: rgba(133, 143, 88, 0.795);
     top:50%;
     margin: auto;
     text-align: center;
@@ -40,7 +40,7 @@ h4{
 h2{
     text-align: center;
     text-decoration: underline;
-    color: rgba(73, 113, 223, 0.795);
+    color: rgba(63, 103, 212, 0.795);
 }
 .sidebar{
     margin-top: 20px;
