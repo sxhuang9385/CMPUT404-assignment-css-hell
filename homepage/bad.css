@@ -4,8 +4,8 @@ body{
 .banner{
     display: flex;
     background-color: rgba(73, 113, 223, 0.795);
-    color:rgba(73, 113, 223, 0.795);
-    padding: 10px;
+    color:rgb(0, 0, 0);
+    padding: 50px;
 }
 .text{
     position: relative;
@@ -13,9 +13,7 @@ body{
     top:50%;
     margin: auto;
     text-align: center;
-    border: double 10px;
-    padding: 10px;
-    border-radius: 10px;
+    padding: 100px;
 }
 .sec1{
     text-align: center;
@@ -35,6 +33,9 @@ h4{
 }
 .info{
     display: flex;
+}
+.about{
+    font-weight: bold;
 }
 h2{
     text-align: center;
